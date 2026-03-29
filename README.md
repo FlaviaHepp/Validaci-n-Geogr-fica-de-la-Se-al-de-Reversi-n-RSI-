@@ -71,3 +71,53 @@ Un mayor rendimiento negativo post-señal indica:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+****
+🌍📉 **¿El RSI funciona igual en todos los mercados?**
+
+El RSI > 70 es una de las señales más clásicas de sobrecompra.
+Pero hay una pregunta clave que pocas veces se hace:
+
+👉 ¿Funciona igual en todos los países?
+
+💡 **Insight clave:**
+La efectividad de la señal de reversión (RSI > 70) **varía significativamente según el mercado**.
+En algunos países, estas señales están seguidas por caídas más pronunciadas en los días posteriores.
+
+---
+
+📊 **¿Qué medí?**
+
+* Señales de sobrecompra (RSI > 70)
+* Rendimiento a 5 días post-señal
+* Segmentación por **bolsa / país de origen**
+* Filtro mínimo de señales para robustez estadística
+
+---
+
+🧠 **¿Cómo interpretarlo?**
+
+* Caídas más fuertes → señal más efectiva (mejor reversión)
+* Caídas débiles o inexistentes → señal menos confiable
+* Diferencias geográficas → comportamiento distinto de los traders
+
+---
+
+⚡ **¿Por qué importa?**
+
+Porque rompe una suposición común:
+
+👉 Los indicadores técnicos **no son universales**.
+
+Esto permite:
+
+* Adaptar estrategias según el mercado
+* Detectar ineficiencias geográficas
+* Mejorar modelos cuantitativos con contexto real
+
+---
+
+📌 Pregunta para la comunidad:
+¿Aplican las mismas estrategias técnicas en todos los mercados… o las adaptan según el contexto?
+
+#QuantFinance #Trading #DataScience #StockMarket #RSI #GlobalMarkets #Alpha #Analytics
